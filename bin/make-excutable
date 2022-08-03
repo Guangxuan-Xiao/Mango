@@ -1,0 +1,3 @@
+#!/bin/bash -E
+
+chmod u+x $1

@@ -1,0 +1,5 @@
+#!/bin/bash -E
+
+GPUS=$1
+echo "USING GPUS: $GPUS"
+CUDA_VISIBLE_DEVICES=$GPUS exec "${@:2}"
