@@ -1,2 +1,2 @@
 # Mango
-My python toolbox.
+My development toolbox.
